@@ -8,3 +8,8 @@ node_modules
 package-lock.json
 yarn.lock
 netlify
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
